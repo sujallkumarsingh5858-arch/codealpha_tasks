@@ -46,8 +46,13 @@ Shows course information, a preview area, enrollment details, learning outcomes,
 
 ## Editable Source
 
-**Figma Project:** [View LearnEase UI/UX Design](https://www.figma.com/design/P5Jjw1tgoq2z98uWXoAabh/CodeAlpha_LearnEase_UIUX?node-id=0-1)
+**[View Task 1 — Low-Fidelity Wireframes](https://www.figma.com/design/P5Jjw1tgoq2z98uWXoAabh/CodeAlpha_LearnEase_UIUX?node-id=0-1&t=LYoASAGHY8vnjo2S-1)**
+
+**[View Task 2 — High-Fidelity UI Design](https://www.figma.com/design/P5Jjw1tgoq2z98uWXoAabh/CodeAlpha_LearnEase_UIUX?node-id=19-2&t=LYoASAGHY8vnjo2S-1)**
 
 ## Notes
 
-The PNG files are visual exports of the wireframes. The original Figma file contains the editable design source. Ensure that the Figma sharing permissions allow the reviewer to view the project.
+The PNG files are visual exports of the wireframes. The original Figma file contains the editable design source.
+
+Ensure that Figma sharing permissions allow the reviewer to view the project.
+
